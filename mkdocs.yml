@@ -1,5 +1,5 @@
 site_name: Mixed Traffic Control
-
+site_author: Yanzhi Yao
 nav:
     - Welcome: index.md
     - Smoothing traffic flow: smoothing_traffic_flow.md
